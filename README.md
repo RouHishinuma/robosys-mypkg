@@ -12,7 +12,7 @@ https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server を参考に
 
 # 実行
 https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/　
--　こちらを参考に環境構築をします。
+こちらを参考に環境構築をします。
 
 ・パッケージダウンロード
 ```
