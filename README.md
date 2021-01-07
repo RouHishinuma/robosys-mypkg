@@ -9,7 +9,7 @@
 https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server を参考にインストールします。
 
 # 実行
-https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/を参考に環境構築をします。
+https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/　を参考に環境構築をします。
 
 ・パッケージダウンロード
 ```
@@ -21,7 +21,7 @@ $ git clone https://github.com/RouHishinuma/robosys-mypkg.git
 $ cd ~catkin_ws
 $ catkin_make
 ```
-以上を行いhttps://www.youtube.com/watch?v=PL85Pw_zQH0を参考に実行する。
+以上を行いhttps://www.youtube.com/watch?v=PL85Pw_zQH0　を参考に実行する。
 # 著者
 https://github.com/ryuichiueda
 
