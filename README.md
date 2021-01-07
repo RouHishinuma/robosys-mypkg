@@ -4,8 +4,8 @@
 ロボットシステム学にて作成したROSパッケージになります。
 
 # 動作環境
-- ・ubuntu 20.04
-- ・Rasberry Pi 4 Model B
+- ubuntu 20.04
+- Rasberry Pi 4 Model B
 
 # インストール
 https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server を参考にインストールします。
