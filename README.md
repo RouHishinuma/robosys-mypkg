@@ -5,7 +5,7 @@
 
 # 動作環境
 ・ubuntu 20.04
-- ・Rasberry Pi 4 Model B
+・Rasberry Pi 4 Model B
 
 # インストール
 https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server を参考にインストールします。
