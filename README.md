@@ -32,4 +32,4 @@ https://www.youtube.com/watch?v=PL85Pw_zQH0　
 https://github.com/ryuichiueda
 
 # ライセンス
-[GNU General Public License v3.0] (https://github.com/RouHishinuma/robosys-mypkg/blob/master/LICENCE)
+[GNU General Public License v3.0](https://github.com/RouHishinuma/robosys-mypkg/blob/master/LICENCE)
