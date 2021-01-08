@@ -26,7 +26,7 @@ $ catkin_make
 ```
 以上を行い、
 https://www.youtube.com/watch?v=PL85Pw_zQH0　
-を参考に実行する。
+を参考に実行します。
 
 # 著者
 - 上田隆一
