@@ -1,7 +1,7 @@
 # robosys-mypkg
 
 # 概要
-ロボットシステム学にて作成したROSパッケージになります。
+ロボットシステム学にて作成したROSパッケージになります。count.pyで数値のデータを吐き出しtwice.pyでデータを加工する。
 
 # 動作環境
 - ubuntu 20.04
@@ -33,4 +33,4 @@ https://www.youtube.com/watch?v=PL85Pw_zQH0　
 https://github.com/ryuichiueda
 
 # ライセンス
-[GNU General Public License v3.0](https://github.com/RouHishinuma/robosys-mypkg/blob/master/COPYING)
+[GNU General Public License v3.0](https://github.com/RouHishinuma/robosys-mypkg/blob/master/LICENCE)
